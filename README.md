@@ -119,7 +119,7 @@ Linux • Docker • AWS • VS Code
 
 ---
 
-## 💭 Quote of the Day
+## 💭 Quote 
 
 > **"What matters most is how well you walk through the fire."**
 >
