@@ -91,14 +91,13 @@ Linux • Docker • AWS • VS Code
 
 ---
 
-## 📊 ## 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OC2689&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=OC2689&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OC2689&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OC2689&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=OC2689&theme=github-dark-blue&hide_border=true)
-
+![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OC2689&theme=github_dark)
 
 ## ✍️ Random Dev Quote
 
