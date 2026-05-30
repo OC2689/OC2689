@@ -99,9 +99,6 @@ Linux • Docker • AWS • VS Code
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OC2689&theme=github-dark-blue&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=OC2689&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ✍️ Random Dev Quote
 
