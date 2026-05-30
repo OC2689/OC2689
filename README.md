@@ -91,17 +91,27 @@ Linux • Docker • AWS • VS Code
 
 ---
 
-## 📊 GitHub Stats
+## 📊 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?OC2689=YOUR_OC2689\&show_icons=true\&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OC2689&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?OC2689=YOUR_OC2689\&layout=compact\&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OC2689&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_OC2689\&theme=github-dark-blue)
+![GitHub Streak](https://streak-stats.demolab.com?user=OC2689&theme=github-dark-blue&hide_border=true)
 
-![Profile Views](https://komarev.com/ghpvc/?OC2689=YOUR_OC2689\&color=blue)
+## 🏆 GitHub Trophies
 
----
+[![Trophy](https://github-profile-trophy.vercel.app/?username=OC2689&theme=onedark&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
-> Building at the intersection of AI, research, entrepreneurship, and software engineering.
+## ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=OC2689&label=Profile%20Views&color=0e75b6&style=flat)
+
+What matters most is how well you walk through the fire.
+— Charles Bukowski
+
 
