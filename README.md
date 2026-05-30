@@ -99,10 +99,17 @@ Linux • Docker • AWS • VS Code
 
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OC2689&theme=github_dark)
 
-## ✍️ Random Dev Quote
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay)
+## 💡 Quote
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:F8FAFC,100:14B8A6&height=150&section=header&text=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&fontColor=0F172A&fontSize=24&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <i>— Alan Kay</i>
+</p>
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=OC2689&label=Profile%20Views&color=0e75b6&style=flat)
