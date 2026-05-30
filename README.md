@@ -110,11 +110,20 @@ Linux • Docker • AWS • VS Code
 <p align="center">
   <i>— Alan Kay</i>
 </p>
+
+---
+
 ## 👀 Profile Views
 
 ![](https://komarev.com/ghpvc/?username=OC2689&label=Profile%20Views&color=0e75b6&style=flat)
 
-What matters most is how well you walk through the fire.
-— Charles Bukowski
+---
 
+## 💭 Quote of the Day
+
+> **"What matters most is how well you walk through the fire."**
+>
+> — **Charles Bukowski**
+
+---
 
