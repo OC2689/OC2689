@@ -79,7 +79,7 @@ NumPy • Pandas • Scikit-Learn • TensorFlow • Matplotlib
 
 ### Tools & Technologies
 
-Linux • Docker • AWS • VS Code
+Linux • Docker • AWS • VS Code • Jenkins 
 
 ---
 
